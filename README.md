@@ -26,7 +26,9 @@
 - Familiarize yourself with exam patterns and types of questions
 - Stay updated with any new additions to the repository
 
-## 🏁 Get Started
+## 🏁 Contribute
+
+Note: To read more about how to contribute visit: [CONTRIBUTE.md](CONTRIBUTING.md)
 
 The repository has two branches, 'prod' and 'staging'.
 
